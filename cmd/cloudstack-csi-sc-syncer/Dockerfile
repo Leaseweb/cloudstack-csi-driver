@@ -1,4 +1,4 @@
-FROM alpine:3.18
+FROM alpine:3.20
 
 LABEL \
     org.opencontainers.image.description="CloudStack disk offering to Kubernetes storage class syncer" \
